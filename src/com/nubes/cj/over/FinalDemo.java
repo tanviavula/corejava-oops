@@ -33,7 +33,7 @@ final class Calc {
 	}
 }
 
-public class FinaDemo {
+public class FinalDemo {
 	public static void main(String[] args) {
 
 		while (true) {
