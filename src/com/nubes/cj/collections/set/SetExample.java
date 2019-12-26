@@ -54,11 +54,5 @@ public class SetExample {
 			}
 		}
 		System.out.println(playersSet);
-		
-		
-		
-		
-		
-	
 	}
 }
